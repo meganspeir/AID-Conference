@@ -3,5 +3,5 @@ A list of resources for Accessibility, Inclusion, &amp; Diversity at tech confer
 
 ## Resources
 
-+ [Ramp-Up.me] (http://ramp-up.me/en/)
-+ [CallbackWomen] (http://www.callbackwomen.com)
++ [Ramp-Up.me](http://ramp-up.me/en/)
++ [CallbackWomen](http://www.callbackwomen.com)
